@@ -12,7 +12,7 @@ In this challenge, you must create an application to continue training what you 
 
 This will be an application to store incoming and outgoing financial transactions, which should allow the registration and listing of these transactions.
 
-### Rotas da aplicação
+### Application routes
 
 Now that you have the template cloned, and ready to continue, you should check the files in the src folder and complete where there is no code with the code to achieve the objectives of each route.
 
@@ -66,7 +66,7 @@ This route should return a listing with all the transactions you have registered
 }
 ```
 
-### Especificação dos testes
+### Tests specification
 
 In each test, you have a brief description of what your application must do in order for the test to pass.
 
