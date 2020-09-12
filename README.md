@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
 
 <h3 align="center">
-  Desafio 05: GoFinances - Node.js
+  Challenge: GoFinances - Node.js
 </h3>
 
 <blockquote align="center">“For those who get better every day, getting ready is utopia”!</blockquote>
